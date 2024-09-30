@@ -217,4 +217,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+<hr>
+<H3>OUTPUT</H3>
+![image](https://github.com/user-attachments/assets/86a419c4-48a8-4a07-bb66-b123e2d45a82)
 
+<H3>RESULT</H3>
+We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
